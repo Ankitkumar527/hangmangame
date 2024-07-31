@@ -1,0 +1,79 @@
+Choose mode (single/multi):  single
+Choose a category:
+1. Animals
+2. Countries
+3. Movies
+Enter the number of your choice:  1
+Choose a difficulty level:
+1. Easy (10 incorrect guesses)
+2. Medium (6 incorrect guesses)
+3. Hard (4 incorrect guesses)
+Enter the number of your choice:  1
+_ _ _ _ _ _ _ _
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  hint
+Hint: The word contains the letter 'O'.
+_ _ _ _ _ _ O O
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  k
+K _ _ _ _ _ O O
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  a
+K A _ _ A _ O O
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  n
+K A N _ A _ O O
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  g
+K A N G A _ O O
+
+               ------
+               |    |
+                    |
+                    |
+                    |
+                    |
+            --------
+            
+Enter a letter (or type 'hint' for a hint):  r
+Congratulations! You've won!
